@@ -36,6 +36,8 @@ Please send a pull request if you are using Kubernetes Third-Party Resources, Cu
 - Atlassian Smith: https://github.com/atlassian/smith
 - Kafka Operator: https://github.com/krallistic/kafka-operator
 - CrunchyData PostgreSQL operator: https://github.com/CrunchyData/postgres-operator
+- Mongo Operator: https://github.com/kirk-enterprise/mongo-operator
+- Kong Operator: https://github.com/upmc-enterprises/kong-operator
 
 TODO:
 - Dig through commits on GitHub: https://github.com/search?q=ThirdPartyResource&type=Commits&utf8=%E2%9C%93
