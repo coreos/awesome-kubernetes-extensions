@@ -5,7 +5,7 @@ A resource tracking a number of Kubernetes extensions.
 
 Please send a pull request if you are using Kubernetes Third-Party Resources, Custom Resource Definitions, or the API Server Aggregation and we will add you to the list.
 
-- Rook Operator: https://github.com/rook/rook/tree/master/demo/kubernetes
+- Rook Operator: https://github.com/rook/rook/tree/master/cluster/examples/kubernetes
 - Elasticsearch Operator: https://github.com/upmc-enterprises/elasticsearch-operator
 - Etcd Operator: https://coreos.com/blog/introducing-the-etcd-operator.html
 - Prometheus Operator: https://coreos.com/blog/the-prometheus-operator.html
