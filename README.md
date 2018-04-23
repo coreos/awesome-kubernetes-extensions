@@ -40,9 +40,17 @@ Please send a pull request if you are using Kubernetes Third-Party Resources, Cu
 - Kong Operator: https://github.com/upmc-enterprises/kong-operator
 - Cilium (L3-L7 network security, loadbalancing, networking for k8s): https://github.com/cilium/cilium
 - Argo Workflow Engine (https://github.com/argoproj/argo)
+- Kubebuilder: https://github.com/kubernetes-sigs/kubebuilder
+- Metacontroller: https://github.com/GoogleCloudPlatform/metacontroller/
+- Operator-Kit: https://github.com/rook/operator-kit
+- OperatorKit: https://github.com/giantswarm/operatorkit
+- MySQL Operator: https://github.com/oracle/mysql-operator
+- Vault operator: https://github.com/coreos/vault-operator
+- Heptio Contour: https://github.com/heptio/contour/
+- Spark Operator: https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
 
 TODO:
-- Dig through commits on GitHub: https://github.com/search?q=ThirdPartyResource&type=Commits&utf8=%E2%9C%93
+- Dig through commits on GitHub: https://github.com/search?q=Kubernetes_CRD&type=Repositories
 
 Resources:
 - [Kubernetes Docs](https://kubernetes.io/docs/user-guide/thirdpartyresources/)
