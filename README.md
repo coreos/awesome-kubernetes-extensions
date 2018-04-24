@@ -40,9 +40,36 @@ Please send a pull request if you are using Kubernetes Third-Party Resources, Cu
 - Kong Operator: https://github.com/upmc-enterprises/kong-operator
 - Cilium (L3-L7 network security, loadbalancing, networking for k8s): https://github.com/cilium/cilium
 - Argo Workflow Engine (https://github.com/argoproj/argo)
+- WebLogic Operator: https://github.com/oracle/weblogic-kubernetes-operator
+- Redis Operator: https://github.com/spotahome/redis-operator
+- Redis Operator #2: https://github.com/jw-s/redis-operator
+- Redis Operator #3: https://github.com/huawei-cloudfederation/redis-operator
+- Habitat Operator: https://github.com/habitat-sh/habitat-operator
+- Tidb Operator: https://github.com/aliyx/tidb-operator
+- Memcached Operator: https://github.com/ianlewis/memcached-operator
+- MXNet Operator: https://github.com/deepinsight/mxnet-operator 
+- NATS operator: https://github.com/nats-io/nats-operator
+- MongoDB Operator #2: https://github.com/kbst/mongodb
+- MySQL CRD: https://github.com/grtl/mysql-operator 
+- Cassandra Operator: https://github.com/instaclustr/cassandra-operator
+- Cassandara Operator #2: https://github.com/vgkowski/cassandra-operator
+- KubeDB Operator: https://github.com/kubedb/operator
+- Consul Operator: https://github.com/python/consul-operator
+- ArangoDB Operator: https://github.com/arangodb/kube-arangodb
+- RDS Operator: https://github.com/MYOB-Technology/ops-kube-db-operator
+- CouchDB Operator: https://github.com/nicolai86/couchdb-operator
+- Zeebe Operator: https://github.com/zeebe-io/zeebe-operator
+- InfluxDB Operator: https://github.com/gianarb/influxdb-operator
+- Aerospike Operator: https://github.com/travelaudience/aerospike-operator
+- Vitess Operator: https://github.com/vitessio/vitess-operator
+- DynamoDB Operator: https://github.com/microdc/k8s-dynamodb-operator
 
 TODO:
 - Dig through commits on GitHub: https://github.com/search?q=ThirdPartyResource&type=Commits&utf8=%E2%9C%93
+
+Tools for writing operators/controllers:
+- Utilities for writing controllers and operators: https://github.com/ianlewis/controllerutil
+- Kooper tools for creating operators: https://github.com/spotahome/kooper 
 
 Resources:
 - [Kubernetes Docs](https://kubernetes.io/docs/user-guide/thirdpartyresources/)
